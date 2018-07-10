@@ -39,7 +39,7 @@ Time | Subject
 1040 | Numerical inference (grid-based)
 1120 | Coding workshop - numerical inference
 1200 | Lunch
-1300 | “Here’s a Gibbs Sampling”
+1300 | [Introduction to sampling](https://github.com/GregoryAshton/OzGravInferenceWorkshop/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb)
 1310 | Coding workshop - writing your own Gibbs sampler
 1400 | Sampling packages (MCMC/Nested sampling)
 1440 | Introductin to TUPAK
