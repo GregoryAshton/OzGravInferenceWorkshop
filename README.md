@@ -39,11 +39,11 @@ Time | Subject
 1040 | Numerical inference (Rory Smith)
 1120 | Coding workshop - numerical inference
 1200 | Lunch
-1300 | Sampling 
-1340 | [Introduction to MCMC sampling](/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb)
-1420 | [Sampling packages (MCMC/Nested sampling)](/introduction_to_mcmc_and_nested_sampling/introduction-to-packaged-samplers.ipynb)
+1300 | Sampling (Rory Smith)
+1340 | [Introduction to MCMC sampling](/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb) (Greg Ashton)
+1420 | [Sampling packages (MCMC/Nested sampling)](/introduction_to_mcmc_and_nested_sampling/introduction-to-packaged-samplers.ipynb) (Greg Ashton)
 1500 | Coffee
-1530 | Introduction to TUPAK
+1530 | Introduction to TUPAK (Paul Lasky)
 1600 | Coding workshop - examples with tupak
 
 ### Tuesday: Inference in Astrophysics
