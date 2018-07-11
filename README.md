@@ -48,7 +48,6 @@ Time | Subject
 1500 | Coffee
 1530 | Introduction to TUPAK (Paul Lasky)
 1600 | Coding workshop - examples with tupak
->>>>>>> 5bf0e26afdc0ceaa999bdf8541f9b51a10f7983b
 
 ### Tuesday: Inference in Astrophysics
 
