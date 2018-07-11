@@ -39,10 +39,10 @@ Time | Subject
 1040 | Numerical inference (grid-based)
 1120 | Coding workshop - numerical inference
 1200 | Lunch
-1300 | [Introduction to sampling](/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb)
+1300 | [Introduction to sampling](/notebooks/introduction-to-sampling.ipynb)
 1310 | Coding workshop - writing your own Gibbs sampler
-1440 | [Sampling packages (MCMC/Nested sampling)](/introduction_to_mcmc_and_nested_sampling/introduction-to-packaged-samplers.ipynb)
-1440 | Introduction to TUPAK
+1440 | [Sampling packages (MCMC/Nested sampling)](/notebooks/introduction-to-packaged-samplers.ipynb)
+1440 | [Introduction to TUPAK](/notebooks/tupak.ipynb)
 1510 | Coding workshop - examples with tupak
 
 ### Tuesday: Inference in Astrophysics
