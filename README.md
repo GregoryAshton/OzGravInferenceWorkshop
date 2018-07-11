@@ -35,15 +35,16 @@ Time | Subject
 ---- | ------------------------------------------------
 0900 | Coffee at [Cafe Cinque Lire, 15 Innovation Walk](https://goo.gl/maps/TRtzB8GjUzQ2) + setup time
 0945 | Opening remarks
-1000 | Introduction to Inference
-1040 | Numerical inference (grid-based)
+1000 | Introduction to Inference (Eric Thrane)
+1040 | Numerical inference (Rory Smith)
 1120 | Coding workshop - numerical inference
 1200 | Lunch
-1300 | [Introduction to sampling](/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb)
-1310 | Coding workshop - writing your own Gibbs sampler
-1440 | [Sampling packages (MCMC/Nested sampling)](/introduction_to_mcmc_and_nested_sampling/introduction-to-packaged-samplers.ipynb)
-1440 | Introduction to TUPAK
-1510 | Coding workshop - examples with tupak
+1300 | Sampling 
+1340 | [Introduction to MCMC sampling](/introduction_to_mcmc_and_nested_sampling/introduction-to-sampling.ipynb)
+1420 | [Sampling packages (MCMC/Nested sampling)](/introduction_to_mcmc_and_nested_sampling/introduction-to-packaged-samplers.ipynb)
+1500 | Coffee
+1530 | Introduction to TUPAK
+1600 | Coding workshop - examples with tupak
 
 ### Tuesday: Inference in Astrophysics
 
