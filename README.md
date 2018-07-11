@@ -33,7 +33,7 @@ ready to go.
 
 Time | Subject
 ---- | ------------------------------------------------
-0900 | Coffee + setup time
+0900 | Coffee at [Cafe Cinque Lire, 15 Innovation Walk](https://goo.gl/maps/TRtzB8GjUzQ2) setup time
 0945 | Opening remarks
 1000 | Introduction to Inference
 1040 | Numerical inference (grid-based)
