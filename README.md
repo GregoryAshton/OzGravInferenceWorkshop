@@ -53,9 +53,9 @@ Time | Subject
 
 Time | Subject
 ---- | ------------------------------------------------
-0900 | Pulsar timing: now
-0930 | Pulsar timing: the future
-0945 | Pulsar timing: open discussion
+0900 | Transient multimessenger astronomy: now
+0930 | Transient multimessenger astronomy: the future
+0945 | Transient multimessenger astronomy: open discussion
 1015 | Coffee
 1045 | Instrumentation: now
 1115 | Instrumentation: the future
@@ -65,11 +65,13 @@ Time | Subject
 1330 | Neutron stars: the future
 1345 | Neutron stars: open discussion
 1415 | Coffee
-1445 | Transient multimessenger astronomy: now
-1515 | Transient multimessenger astronomy: the future
-1530 | Transient multimessenger astronomy: open discussion
+1445 | Pulsar timing: now
+1515 | Pulsar timing: the future
+1530 | Pulsar timing: open discussion
 1600 | Coffee
 1630 | Ideas sparkler session
+
+Note - the "Transient multimessenger astronomy" and "Pulsar timing" sessins have been switched in order to allow colleagues at a conference in South Africa to join remotely for the pulsar timing session.
 
 ### Wednesday: Inference workshop
 
