@@ -41,7 +41,7 @@ Time | Subject
 1200 | Lunch
 1300 | Sampling (Rory Smith)
 1340 | [Introduction to sampling](/notebooks/introduction-to-sampling.ipynb) (Greg Ashton)
-1410 | Coding workshop - writing your own Gibbs sampler
+1410 | Coding workshop
 1440 | [Sampling packages (MCMC/Nested sampling)](/notebooks/introduction-to-packaged-samplers.ipynb) (Greg Ashton)
 1500 | Coffee
 1530 | [Introduction to TUPAK](/notebooks/tupak.ipynb) (Paul Lasky)
