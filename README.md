@@ -36,7 +36,7 @@ Time | Subject
 0900 | Coffee at [Cafe Cinque Lire, 15 Innovation Walk](https://goo.gl/maps/TRtzB8GjUzQ2) + setup time
 0945 | Opening remarks
 1000 | [Introduction to Bayesian Inference](http://users.monash.edu.au/~erict/Resources/inference/introduction-bayesian-inference.pdf) (Eric Thrane)
-1040 | Numerical inference (Rory Smith)
+1040 | [Numerical inference](inf_workshop.pdf) (Rory Smith)
 1120 | Coding workshop - numerical inference
 1200 | Lunch
 1300 | Sampling (Rory Smith)
