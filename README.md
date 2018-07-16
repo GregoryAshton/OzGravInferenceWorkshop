@@ -41,12 +41,10 @@ Time | Subject
 1200 | Lunch
 1300 | Sampling (Rory Smith)
 1340 | [Introduction to sampling](/notebooks/introduction-to-sampling.ipynb) (Greg Ashton)
-1310 | Coding workshop - writing your own Gibbs sampler
+1410 | Coding workshop
 1440 | [Sampling packages (MCMC/Nested sampling)](/notebooks/introduction-to-packaged-samplers.ipynb) (Greg Ashton)
-1440 | [Introduction to TUPAK](/notebooks/tupak.ipynb) (Paul Lasky)
-1510 | Coding workshop - examples with tupak
 1500 | Coffee
-1530 | Introduction to TUPAK (Paul Lasky)
+1530 | [Introduction to TUPAK](/notebooks/tupak.ipynb) (Paul Lasky)
 1600 | Coding workshop - examples with tupak
 
 ### Tuesday: Inference in Astrophysics
